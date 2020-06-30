@@ -35,6 +35,8 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 position: relative;
+margin-bottom: 60px;
+margin-top: -60px;
 }
 #example {
 
@@ -57,13 +59,13 @@ margin: 50px;
 }
 #categoriessection {
   padding-top: 40px;
-  padding-top: 20px;
+ 
 }
 #categories {
   
   margin-bottom: ;
   padding-top: 40px;
-  padding-top: 20px;
+  margin-bottom: 20px;
 }
 
 /* Category Grid CSS */
