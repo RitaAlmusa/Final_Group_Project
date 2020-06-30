@@ -25,7 +25,7 @@ body, html {
 /* The hero image */
 .hero-image {
 /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-background-image:  url("/Users/RitaAlmusa/Documents/Final_Group_Project_Master/Final_Group_Project/images/AdobeStock_354487530-Edit.png");
+background-image:  url("AdobeStock_354487530-Edit.png");
 
 /* Set a specific height */
 height: 80%;
@@ -263,7 +263,7 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   text-align: center;
-  background-image: ("/Users/RitaAlmusa/Documents/Final_Group_Project_Master/Final_Group_Project/images/C8Q_zR8PDlA.png");
+  background-image: ("C8Q_zR8PDlA.png");
   background-size: cover;
 }
 
